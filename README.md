@@ -21,7 +21,7 @@ Outline the key test scenarios you worked on:
 
 ### Prerequisites:
 - Apache JMeter installed on your local machine.
-- JDK installed (since JMeter requires Java).
+- JDK installed.
 
 ### Steps to Run the Test:
 1. Clone the repository:
