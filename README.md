@@ -13,9 +13,9 @@ Outline the key test scenarios you worked on:
 ## Technologies Used
 - Apache JMeter
 - BlazeMeter (for recording the initial test flow)
-- CSV Data Set Config (for parameterization)
-- JMeter CLI (for generating reports)
-- HTML Reports (for test results visualization)
+- CSV Data Set Config 
+- JMeter CLI 
+- HTML Reports 
 
 ## Setup Instructions
 
