@@ -41,6 +41,14 @@ Outline the key test scenarios you worked on:
     jmeter -n -t scripts/blazedemo.jmx -l results/results.csv -e -o results/report/
     ```
 
+## Screenshots of the Reports
+
+
+![Screenshot 1](./Reports/assets/ss2.png)
+
+
+![Screenshot 2](./Reports/assets/ss1.png)
+
 
 
 
